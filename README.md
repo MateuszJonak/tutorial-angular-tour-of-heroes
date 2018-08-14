@@ -1,4 +1,7 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes
+Tutorial was created based on: https://angular.io/tutorial.
+The Tour of Heroes tutorial covers the fundamentals of Angular.
+In this tutorial you will build an app that helps a staffing agency manage its stable of heroes.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
 
